@@ -1,3 +1,7 @@
+自用固件
+wndr3800固件
+加入了usb打印服务器
+
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
