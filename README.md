@@ -1,6 +1,7 @@
 自用固件,网件路由器
 wndr3800
 wndr4300v1
+r619ac (竞斗云2.0)
 
 目标平台	ath79/generic
 固件版本	OpenWrt 21.02-SNAPSHOT / LuCI 21.02 Lienol git-1ff9cf7
